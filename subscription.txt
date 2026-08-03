@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/jabbarcing/v2go/refs/heads/main/Splitted-By-Country/US.txt
+https://raw.githubusercontent.com/jabbarcing/v2go/refs/heads/main/Splitted-By-Country/Unknown.txt

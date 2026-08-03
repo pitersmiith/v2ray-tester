@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/jabbarcing/v2go/refs/heads/main/AllConfigsSub.txt
+https://raw.githubusercontent.com/jabbarcing/v2go/refs/heads/main/Base64/Sub1_base64.txt

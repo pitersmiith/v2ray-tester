@@ -31,7 +31,7 @@ func loadConfig(path string) (*Config, error) {
 		Subscriptions: "subscription.txt",
 		TestURL:       "http://youtube.com/generate_204",
 		Timeout:       15,
-		Concurrent:    20000,
+		Concurrent:    10000,
 		PerFile:       999999,
 		OutputDir:     "configs",
 		ReportFile:    "REPORT.md",

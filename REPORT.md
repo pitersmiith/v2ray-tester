@@ -2,7 +2,7 @@
 
 Auto-tested proxy configurations, updated every 12 hours.
 
-> Last update: 2026-08-03 14:47 UTC
+> Last update: 2026-08-03 22:03 UTC
 
 ---
 
@@ -10,12 +10,12 @@ Auto-tested proxy configurations, updated every 12 hours.
 
 | Protocol | Working Configs | Files |
 |:--------:|:---------------:|:-----:|
-| VLESS | 293 | 2 |
-| VMess | 59 | 1 |
-| Shadowsocks | 126 | 1 |
-| Trojan | 9 | 1 |
-| Cloudflare | 130 | 1 |
-| **Total** | **617** | **6** |
+| VLESS | 298 | 1 |
+| VMess | 14 | 1 |
+| Shadowsocks | 21 | 1 |
+| Trojan | 17 | 1 |
+| Cloudflare | 7 | 1 |
+| **Total** | **357** | **5** |
 
 ---
 
@@ -23,45 +23,40 @@ Auto-tested proxy configurations, updated every 12 hours.
 
 ### VLESS
 
-> VLESS 1 (200 configs)
+> VLESS 1 (298 configs)
 ```
-https://raw.githubusercontent.com/gbcwror/v2ray-tester/main/configs/vless/vless-1.txt
-```
-
-> VLESS 2 (93 configs)
-```
-https://raw.githubusercontent.com/gbcwror/v2ray-tester/main/configs/vless/vless-2.txt
+https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/vless/vless-1.txt
 ```
 
 
 ### VMess
 
-> VMess 1 (59 configs)
+> VMess 1 (14 configs)
 ```
-https://raw.githubusercontent.com/gbcwror/v2ray-tester/main/configs/vmess/vmess-1.txt
+https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/vmess/vmess-1.txt
 ```
 
 
 ### Shadowsocks
 
-> Shadowsocks 1 (126 configs)
+> Shadowsocks 1 (21 configs)
 ```
-https://raw.githubusercontent.com/gbcwror/v2ray-tester/main/configs/ss/ss-1.txt
+https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/ss/ss-1.txt
 ```
 
 
 ### Trojan
 
-> Trojan 1 (9 configs)
+> Trojan 1 (17 configs)
 ```
-https://raw.githubusercontent.com/gbcwror/v2ray-tester/main/configs/trojan/trojan-1.txt
+https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/trojan/trojan-1.txt
 ```
 
 
 ### Cloudflare
 
-> Cloudflare 1 (130 configs)
+> Cloudflare 1 (7 configs)
 ```
-https://raw.githubusercontent.com/gbcwror/v2ray-tester/main/configs/cloudflare/cf-1.txt
+https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/cloudflare/cf-1.txt
 ```
 

@@ -2,7 +2,7 @@
   "subscriptions": "subscription.txt",
   "test_url": "http://youtube.com/generate_204",
   "timeout": 15,
-  "concurrent": 300,
+  "concurrent": 30,
   "per_file": 999999,
   "output_dir": "configs",
   "report_file": "REPORT.md",

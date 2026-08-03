@@ -29,10 +29,10 @@ type Config struct {
 func loadConfig(path string) (*Config, error) {
 	cfg := &Config{
 		Subscriptions: "subscription.txt",
-		TestURL:       "http://gstatic.com/generate_204",
-		Timeout:       5,
-		Concurrent:    300,
-		PerFile:       500,
+		TestURL:       "http://youtube.com/generate_204",
+		Timeout:       15,
+		Concurrent:    20000,
+		PerFile:       999999,
 		OutputDir:     "configs",
 		ReportFile:    "REPORT.md",
 	}

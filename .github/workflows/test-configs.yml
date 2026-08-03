@@ -3,7 +3,7 @@ name: Test v2ray Configs
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '45 */12 * * *'
 
 permissions:
   contents: write

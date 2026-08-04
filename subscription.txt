@@ -1,8 +1,6 @@
-https://raw.githubusercontent.com/pitersmiith/v2go/refs/heads/main/Splitted-By-Protocol/hy2.txt
-https://raw.githubusercontent.com/pitersmiith/v2go/refs/heads/main/Splitted-By-Protocol/ss.txt
 https://raw.githubusercontent.com/pitersmiith/v2go/refs/heads/main/Splitted-By-Protocol/ssr.txt
 https://raw.githubusercontent.com/pitersmiith/v2go/refs/heads/main/Splitted-By-Protocol/trojan.txt
 https://raw.githubusercontent.com/pitersmiith/v2go/refs/heads/main/Splitted-By-Protocol/tuic.txt
 https://raw.githubusercontent.com/pitersmiith/v2go/refs/heads/main/Splitted-By-Protocol/vless.txt
 https://raw.githubusercontent.com/pitersmiith/v2go/refs/heads/main/Splitted-By-Protocol/vmess.txt
-https://raw.githubusercontent.com/pitersmiith/v2go/refs/heads/main/Splitted-By-Protocol/warp.txt
+

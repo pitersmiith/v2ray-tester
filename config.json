@@ -1,6 +1,6 @@
 {
   "subscriptions": "subscription.txt",
-  "test_url": "http://youtube.com/generate_204",
+  "test_url": "https://youtube.com/generate_204",
   "timeout": 15,
   "concurrent": 3000,
   "per_file": 999999,

@@ -2,7 +2,7 @@
 
 Auto-tested proxy configurations, updated every 12 hours.
 
-> Last update: 2026-08-04 16:28 UTC
+> Last update: 2026-08-18 14:19 UTC
 
 ---
 
@@ -10,12 +10,9 @@ Auto-tested proxy configurations, updated every 12 hours.
 
 | Protocol | Working Configs | Files |
 |:--------:|:---------------:|:-----:|
-| VLESS | 830 | 1 |
-| VMess | 71 | 1 |
-| Shadowsocks | 150 | 1 |
-| Trojan | 124 | 1 |
-| Cloudflare | 127 | 1 |
-| **Total** | **1302** | **5** |
+| VLESS | 17 | 1 |
+| Cloudflare | 78 | 1 |
+| **Total** | **95** | **2** |
 
 ---
 
@@ -23,39 +20,15 @@ Auto-tested proxy configurations, updated every 12 hours.
 
 ### VLESS
 
-> VLESS 1 (830 configs)
+> VLESS 1 (17 configs)
 ```
 https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/vless/vless-1.txt
 ```
 
 
-### VMess
-
-> VMess 1 (71 configs)
-```
-https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/vmess/vmess-1.txt
-```
-
-
-### Shadowsocks
-
-> Shadowsocks 1 (150 configs)
-```
-https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/ss/ss-1.txt
-```
-
-
-### Trojan
-
-> Trojan 1 (124 configs)
-```
-https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/trojan/trojan-1.txt
-```
-
-
 ### Cloudflare
 
-> Cloudflare 1 (127 configs)
+> Cloudflare 1 (78 configs)
 ```
 https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/cloudflare/cf-1.txt
 ```

@@ -2,7 +2,7 @@
 
 Auto-tested proxy configurations, updated every 12 hours.
 
-> Last update: 2026-09-01 12:58 UTC
+> Last update: 2026-09-02 00:56 UTC
 
 ---
 
@@ -10,9 +10,9 @@ Auto-tested proxy configurations, updated every 12 hours.
 
 | Protocol | Working Configs | Files |
 |:--------:|:---------------:|:-----:|
-| VLESS | 4 | 1 |
-| Cloudflare | 192 | 1 |
-| **Total** | **196** | **2** |
+| VLESS | 155 | 1 |
+| Cloudflare | 717 | 1 |
+| **Total** | **872** | **2** |
 
 ---
 
@@ -20,7 +20,7 @@ Auto-tested proxy configurations, updated every 12 hours.
 
 ### VLESS
 
-> VLESS 1 (4 configs)
+> VLESS 1 (155 configs)
 ```
 https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/vless/vless-1.txt
 ```
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/vless/vl
 
 ### Cloudflare
 
-> Cloudflare 1 (192 configs)
+> Cloudflare 1 (717 configs)
 ```
 https://raw.githubusercontent.com/pitersmiith/v2ray-tester/main/configs/cloudflare/cf-1.txt
 ```
